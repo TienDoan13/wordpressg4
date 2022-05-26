@@ -217,7 +217,7 @@
 </div>
 <?php
 //Kết nối theo Mysqli procedural
-$connect = mysqli_connect('localhost','root','','mydb');
+$connect = mysqli_connect('localhost','btec','123@123a','mydb');
 if($connect){
 	//echo "Kết nối thành công";
 }
