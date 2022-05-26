@@ -213,7 +213,7 @@
 	</div>
 </div>
 <?php 
-	$connect =mysqli_connect('localhost','root','','mydb');
+	$connect =mysqli_connect('localhost','btec','123@123a','mydb');
 if(!$connect){
 	echo "kết nối that bai";
 }
